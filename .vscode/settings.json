@@ -89,6 +89,7 @@
                 }
             }
         ]
-    }
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/DaisySP"
     
 }

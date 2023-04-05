@@ -8,3 +8,6 @@
 [submodule "libDaisy"]
 	path = libDaisy
 	url = https://github.com/electro-smith/libDaisy
+[submodule "PROJEKTS"]
+	path = PROJEKTS
+	url = git@github.com:ricardomatias/DaisyProjekts.git
